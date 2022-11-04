@@ -1,0 +1,24 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2022-11-04T12:21:00.169-00:00",
+	"Sources" : 
+	[
+		{
+			"Packages" : 
+			[
+				{"PackageIdentifier": "EclipseAdoptium.Temurin.18.JDK"},
+				{"PackageIdentifier": "JetBrains.IntelliJIDEA.Community"},
+				{"PackageIdentifier": "OpenNoteBlockStudio.MinecraftNoteBlockStudio"},
+				{"PackageIdentifier": "JannisX11.Blockbench"}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://cdn.winget.microsoft.com/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			}
+		}
+	],
+	"WinGetVersion" : "1.4.2161-preview"
+}
