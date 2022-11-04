@@ -1,2 +1,0 @@
-- name: Hello Ansible!
-  shell: echo "Hello from Ansible!"
