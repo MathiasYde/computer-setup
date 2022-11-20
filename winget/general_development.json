@@ -11,7 +11,8 @@
 				{"PackageIdentifier": "Git.Git"},
 				{"PackageIdentifier": "Microsoft.WindowsTerminal"},
 				{"PackageIdentifier": "PuTTY.PuTTY"},
-				{"PackageIdentifier": "Microsoft.VisualStudioCode"}
+				{"PackageIdentifier": "Microsoft.VisualStudioCode"},
+				{"PackageIdentifier": "JetBrains.Toolbox"}
 			],
 			"SourceDetails" : 
 			{
